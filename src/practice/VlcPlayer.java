@@ -1,6 +1,6 @@
 package practice;
 
-import structural_design.adapter_design_pattern.player.AdvancedMediaPlayer;
+import Structural.adapter_design_pattern.player.AdvancedMediaPlayer;
 
 public class VlcPlayer implements AdvancedMediaPlayer {
 

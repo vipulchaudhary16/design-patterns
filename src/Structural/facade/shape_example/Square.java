@@ -1,4 +1,4 @@
-package Structural.facade;
+package Structural.facade.shape_example;
 
 public class Square implements Shape{
 

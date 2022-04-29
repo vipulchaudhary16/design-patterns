@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/mnt/d5cdd861-a412-4a6b-a274-74e78d5cdcab/Cpp/Design Patterns/Singleton/build",
+  "command": "/usr/bin/g++    -Wall -Werror -std=c++17 -g -o CMakeFiles/Singleton.dir/src/Main.cpp.o -c \"/mnt/d5cdd861-a412-4a6b-a274-74e78d5cdcab/Cpp/Design Patterns/Singleton/src/Main.cpp\"",
+  "file": "/mnt/d5cdd861-a412-4a6b-a274-74e78d5cdcab/Cpp/Design Patterns/Singleton/src/Main.cpp"
+}
+]

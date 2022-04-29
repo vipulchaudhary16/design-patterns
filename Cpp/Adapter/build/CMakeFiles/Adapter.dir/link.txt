@@ -1,0 +1,1 @@
+/usr/bin/g++  -Wall -Werror -std=c++17 -g -rdynamic CMakeFiles/Adapter.dir/src/Main.cpp.o -o Adapter 
